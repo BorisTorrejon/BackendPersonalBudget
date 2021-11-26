@@ -1,0 +1,26 @@
+[
+    {
+        "transactionID": 3,
+        "transactionConcept": "vago",
+        "transactionAmount": 70000,
+        "transactionDate": "2021-11-01T03:00:00.000Z",
+        "transactionType": {
+            "type": "Buffer",
+            "data": [
+                0
+            ]
+        }
+    },
+    {
+        "transactionID": 4,
+        "transactionConcept": "deudoso",
+        "transactionAmount": 150000,
+        "transactionDate": "2021-11-01T03:00:00.000Z",
+        "transactionType": {
+            "type": "Buffer",
+            "data": [
+                1
+            ]
+        }
+    }
+]
